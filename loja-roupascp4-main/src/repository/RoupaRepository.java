@@ -14,3 +14,4 @@ public interface RoupaRepository {
 
     void excluirRoupa(Scanner leitor);
 }
+

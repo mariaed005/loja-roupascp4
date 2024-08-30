@@ -7,3 +7,5 @@ public enum TipoRoupaEnum {
     SHORT,
     CAMISA
 }
+
+

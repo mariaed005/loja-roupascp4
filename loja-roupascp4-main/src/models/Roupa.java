@@ -49,3 +49,4 @@ public class Roupa {
         this.tipoRoupa = tipoRoupa;
     }
 }
+
